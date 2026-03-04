@@ -1,0 +1,20 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        int minProd= nums[0];
+        int maxProd= nums[0];
+        int answer= nums[0];
+        for(int i=1; i<nums.length; ++i){
+            
+            if(nums[i]<0){
+                int temp=minProd;
+                minProd = maxProd;
+                maxProd = temp;
+            }
+            maxProd= Math.max(nums[i], maxProd*nums[i]);
+            minProd= Math.min(nums[i], minProd*nums[i]);
+            answer= Math.max(answer, maxProd);
+            
+        }
+        return answer;  
+    }
+}
