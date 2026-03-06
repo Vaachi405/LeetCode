@@ -7,7 +7,7 @@ class Solution {
             if(nums[index]>0){
                 nums[index] = -nums[index];
             }else{
-                ans.add(Math.abs(nums[index]));
+                ans.add(Math.abs(nums[i]));
             }
         }
 
