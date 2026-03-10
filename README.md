@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/Vaachi405/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaachi405/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaachi405/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Vaachi405/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaachi405/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vaachi405/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
