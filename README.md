@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Vaachi405/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaachi405/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0504-base-7](https://github.com/Vaachi405/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaachi405/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
