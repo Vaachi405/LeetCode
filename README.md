@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Vaachi405/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Vaachi405/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Vaachi405/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Vaachi405/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Vaachi405/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Vaachi405/LeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Vaachi405/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Vaachi405/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -166,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Vaachi405/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vaachi405/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Vaachi405/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
