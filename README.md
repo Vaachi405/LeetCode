@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0504-base-7](https://github.com/Vaachi405/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Vaachi405/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaachi405/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Vaachi405/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
