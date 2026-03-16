@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/Vaachi405/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vaachi405/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Vaachi405/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
