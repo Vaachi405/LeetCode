@@ -5,7 +5,6 @@ class Solution {
             if(flowerbed[0]==0 && n>0){
                 flowerbed[0]=1;
                 n--;
-                
             }
             return n<=0;
         }
@@ -25,11 +24,9 @@ class Solution {
                 }
             }  
         }
-        if(flowerbed[l-1]==0){
-            if(flowerbed[l-2]==0){
-                flowerbed[l-1]=1;
+        if(flowerbed[l-1]==0 && flowerbed[l-2]==0){
+            flowerbed[l-1]=1;
                 n--;
-            }
         }
         return n<=0;
     }
