@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Vaachi405/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/Vaachi405/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vaachi405/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaachi405/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Bit Manipulation
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vaachi405/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Vaachi405/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vaachi405/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vaachi405/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaachi405/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/Vaachi405/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
