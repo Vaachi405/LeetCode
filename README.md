@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaachi405/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Vaachi405/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0443-string-compression](https://github.com/Vaachi405/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0504-base-7](https://github.com/Vaachi405/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vaachi405/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Vaachi405/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaachi405/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Vaachi405/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
