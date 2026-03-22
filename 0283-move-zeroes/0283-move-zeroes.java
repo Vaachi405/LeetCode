@@ -12,6 +12,6 @@ class Solution {
                 nums[i]=temp;
                 k++;
             }
-        }}
+        }
     }
 }
