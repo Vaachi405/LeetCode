@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Vaachi405/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaachi405/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaachi405/LeetCode/tree/main/0137-single-number-ii/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaachi405/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vaachi405/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaachi405/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
