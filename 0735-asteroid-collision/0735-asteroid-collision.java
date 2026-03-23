@@ -10,6 +10,7 @@ class Solution {
                 }
                 if(res.isEmpty() || res.peek()<0){
                     res.push(ast);
+                    continue;
                 }
                 if(res.peek()==-ast){
                     res.pop();
