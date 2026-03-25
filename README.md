@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vaachi405/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Vaachi405/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaachi405/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vaachi405/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Vaachi405/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Vaachi405/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vaachi405/LeetCode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Vaachi405/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vaachi405/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaachi405/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaachi405/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Vaachi405/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vaachi405/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Vaachi405/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Vaachi405/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Vaachi405/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
