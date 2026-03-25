@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Vaachi405/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Vaachi405/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Vaachi405/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaachi405/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Vaachi405/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Vaachi405/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Vaachi405/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaachi405/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/Vaachi405/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## String
