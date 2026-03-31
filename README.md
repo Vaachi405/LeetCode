@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vaachi405/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Vaachi405/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vaachi405/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/Vaachi405/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Vaachi405/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Vaachi405/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Vaachi405/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Vaachi405/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Vaachi405/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaachi405/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Vaachi405/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Stack
