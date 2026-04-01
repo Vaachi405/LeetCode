@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/Vaachi405/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0197-rising-temperature](https://github.com/Vaachi405/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Vaachi405/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Vaachi405/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
