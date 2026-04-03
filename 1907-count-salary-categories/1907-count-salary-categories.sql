@@ -3,7 +3,7 @@ SELECT 'Low Salary' AS category,
 FROM Accounts
 UNION ALL
 SELECT 'Average Salary', 
-       COUNT(if(income>=20000 and income<=50000,1,null))
+       COUNT(if(income between 20000 and 50000,1,null))
 FROM Accounts
 UNION ALL
 SELECT 'High Salary', 
