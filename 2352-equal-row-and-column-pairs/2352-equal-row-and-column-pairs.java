@@ -1,30 +1,25 @@
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Arrays;
-
 class Solution {
     public int equalPairs(int[][] grid) {
-        int n = grid.length;
-        Map<String, Integer> rowCounts = new HashMap<>();
+        
+        int len = grid.length;
+        int[][] tGrid = new int[len][len];
 
-        // Store frequency of each row by converting it to a string
-        for (int i = 0; i < n; i++) {
-            String rowString = Arrays.toString(grid[i]);
-            rowCounts.put(rowString, rowCounts.getOrDefault(rowString, 0) + 1);
-        }
-
-        int equalPairsCount = 0;
-        // Check each column
-        for (int j = 0; j < n; j++) {
-            int[] colArray = new int[n];
-            for (int i = 0; i < n; i++) {
-                colArray[i] = grid[i][j];
-            }
-            String colString = Arrays.toString(colArray);
-            if (rowCounts.containsKey(colString)) {
-                equalPairsCount += rowCounts.get(colString);
+        for(int i = 0; i < grid.length; i++) {
+            boolean isEqual = true;
+            for(int j = 0; j < grid.length; j++) {
+                tGrid[i][j] = grid[j][i];
             }
         }
-        return equalPairsCount;
+
+        int op = 0;
+        for(int[] arr : grid) {
+            for(int[] arr1 : tGrid) {
+                if(Arrays.equals(arr, arr1)) {
+                    op++;
+                }
+            }
+        }
+
+        return op;
     }
 }
