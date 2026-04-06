@@ -4,9 +4,9 @@ class Solution {
         int len = grid.length;
         int[][] tGrid = new int[len][len];
 
-        for(int i = 0; i < grid.length; i++) {
-            boolean isEqual = true;
-            for(int j = 0; j < grid.length; j++) {
+        for(int i = 0; i < len; i++) {
+            
+            for(int j = 0; j < len; j++) {
                 tGrid[i][j] = grid[j][i];
             }
         }
