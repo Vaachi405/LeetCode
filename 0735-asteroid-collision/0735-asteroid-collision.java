@@ -5,13 +5,15 @@ class Solution {
         for(int ast:asteroids){
             if(ast>0) res.push(ast);
             else{
+                //for asteroids that explode more than 1 asteroid
                 while(!res.isEmpty() && res.peek()>0 && res.peek()<-ast){
                     res.pop();
                 }
+                //if stack element is negative
                 if(res.isEmpty() || res.peek()<0){
                     res.push(ast);
-                    continue;
                 }
+                //for asteroid that have equal value
                 if(res.peek()==-ast){
                     res.pop();
                 }
