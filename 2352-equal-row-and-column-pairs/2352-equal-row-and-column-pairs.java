@@ -11,15 +11,15 @@ class Solution {
             }
         }
 
-        int op = 0;
+        int ans = 0;
         for(int[] arr : grid) {
             for(int[] arr1 : tGrid) {
                 if(Arrays.equals(arr, arr1)) {
-                    op++;
+                    ans++;
                 }
             }
         }
 
-        return op;
+        return ans;
     }
 }
