@@ -40,12 +40,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Vaachi405/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vaachi405/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,12 +224,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Vaachi405/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Vaachi405/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vaachi405/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Vaachi405/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
