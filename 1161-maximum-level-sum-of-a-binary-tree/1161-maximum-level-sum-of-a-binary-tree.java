@@ -19,14 +19,16 @@ class Solution {
 
         bfs(root, 1, sum);
         int max = Integer.MIN_VALUE;
+        int ans=0;
 
-        for(int num: sum){
-            max = Math.max(num,max);
-        }
+        
         for(int i=0; i<sum.size(); i++){
-            if(sum.get(i)==max) return i+1;
+            if(sum.get(i)>max){
+                max = sum.get(i);
+                ans = i+1;
+            }
         }
-        return 0;
+        return ans;
     }
 
     private static void bfs(TreeNode root, int level, List<Integer> sum){
