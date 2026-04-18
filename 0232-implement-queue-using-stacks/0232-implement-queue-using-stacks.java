@@ -10,6 +10,7 @@ class MyQueue {
         while(!tempstack.isEmpty()){
             stack.push(tempstack.pop());
         }
+        
         stack.push(x);
     
         while(!stack.isEmpty()){
