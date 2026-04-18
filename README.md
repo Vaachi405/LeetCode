@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/Vaachi405/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Vaachi405/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaachi405/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Vaachi405/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
