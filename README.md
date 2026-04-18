@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Vaachi405/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaachi405/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vaachi405/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaachi405/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vaachi405/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vaachi405/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaachi405/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Vaachi405/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vaachi405/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Vaachi405/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Vaachi405/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Linked List
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Vaachi405/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/Vaachi405/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Vaachi405/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vaachi405/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
