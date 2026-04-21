@@ -23,15 +23,16 @@ class Solution {
         while(true){
             if(node!=null){
                 stack.push(node);
-                node = node.left;
+                node = node.left; //left
             }
             else{
-                if(stack.isEmpty()) break;
+                if(stack.isEmpty()) break; // to break the loop
                 node = stack.pop();
-                ans.add(node.val);
-                node = node.right;
+                ans.add(node.val); //root
+                node = node.right; //right
             }
         }
         return ans;
     }
 }
+//iterative approach
