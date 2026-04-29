@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Vaachi405/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Vaachi405/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
