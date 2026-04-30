@@ -14,16 +14,33 @@
  * }
  */
 class Solution {
-    static int count=0;
     public int countNodes(TreeNode root) {
-        count = 0;
-        countR(root);
+        if (root == null)
+            return 0;
+        int lh = leftHeight(root);
+        int rh = rightHeight(root);
+
+        if (lh == rh)
+            return ((2 << lh) - 1);
+        else
+            return countNodes(root.left) + countNodes(root.right) + 1;
+    }
+
+    private int leftHeight(TreeNode node) {
+        int count = 0;
+        while (node.left != null) {
+            count++;
+            node = node.left;
+        }
         return count;
     }
-    private static void countR(TreeNode root){
-        if(root==null) return;
-        count++;
-        countR(root.left);
-        countR(root.right);
+
+    private int rightHeight(TreeNode node) {
+        int count = 0;
+        while (node.right != null) {
+            count++;
+            node = node.right;
+        }
+        return count;
     }
 }
