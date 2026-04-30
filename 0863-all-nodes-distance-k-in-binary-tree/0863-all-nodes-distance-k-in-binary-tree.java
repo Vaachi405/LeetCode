@@ -8,7 +8,7 @@
  * }
  */
 class Solution {
-    private static void markParent(TreeNode root, Map<TreeNode, TreeNode> parent, TreeNode target) {
+    private static void markParent(TreeNode root, Map<TreeNode, TreeNode> parent) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
 
@@ -27,7 +27,7 @@ class Solution {
 
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
         Map<TreeNode, TreeNode> parent = new HashMap<>();
-        markParent(root, parent, target);
+        markParent(root, parent);
         Map<TreeNode, Boolean> vis = new HashMap<>();
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(target);
