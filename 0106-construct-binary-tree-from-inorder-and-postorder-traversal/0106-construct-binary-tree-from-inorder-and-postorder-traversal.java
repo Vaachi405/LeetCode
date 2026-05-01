@@ -15,26 +15,31 @@
  */
 class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
+        if (inorder == null || postorder == null || inorder.length != postorder.length)
+            return null;
         Map<Integer, Integer> inmap = new HashMap<>();
 
-        for(int i=0; i<inorder.length; i++){
+        for (int i = 0; i < inorder.length; i++) {
             inmap.put(inorder[i], i);
         }
 
-        TreeNode root = build(postorder, 0, postorder.length-1, inorder, 0, inorder.length-1, inmap);
+        TreeNode root = build(postorder, 0, postorder.length - 1, inorder, 0, inorder.length - 1, inmap);
 
         return root;
     }
-    private TreeNode build(int[] postorder, int postStart, int postEnd, int[] inorder, int inStart, int inEnd, Map<Integer,Integer> inmap){
-        if(postStart > postEnd || inStart > inEnd) return null;
+
+    private TreeNode build(int[] postorder, int postStart, int postEnd, int[] inorder, int inStart, int inEnd,
+            Map<Integer, Integer> inmap) {
+        if (postStart > postEnd || inStart > inEnd)
+            return null;
 
         TreeNode root = new TreeNode(postorder[postEnd]);
 
         int inRoot = inmap.get(root.val);
         int numsLeft = inRoot - inStart;
 
-        root.left = build(postorder,postStart, postStart + numsLeft-1, inorder, inStart, inRoot - 1, inmap);
-        root.right = build(postorder, postStart + numsLeft, postEnd-1, inorder, inRoot + 1, inEnd, inmap);
+        root.left = build(postorder, postStart, postStart + numsLeft - 1, inorder, inStart, inRoot - 1, inmap);
+        root.right = build(postorder, postStart + numsLeft, postEnd - 1, inorder, inRoot + 1, inEnd, inmap);
 
         return root;
     }
