@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vaachi405/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Vaachi405/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaachi405/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/Vaachi405/LeetCode/tree/main/0231-power-of-two/) | Easy |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vaachi405/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaachi405/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Vaachi405/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -451,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vaachi405/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Vaachi405/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Vaachi405/LeetCode/tree/main/0231-power-of-two/) | Easy |
