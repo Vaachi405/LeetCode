@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vaachi405/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vaachi405/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Vaachi405/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Vaachi405/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vaachi405/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Vaachi405/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaachi405/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Vaachi405/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Vaachi405/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
