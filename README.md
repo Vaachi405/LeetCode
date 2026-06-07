@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaachi405/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vaachi405/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vaachi405/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Vaachi405/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaachi405/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaachi405/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaachi405/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaachi405/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Vaachi405/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaachi405/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vaachi405/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
