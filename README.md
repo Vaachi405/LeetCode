@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaachi405/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Vaachi405/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaachi405/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Vaachi405/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaachi405/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vaachi405/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaachi405/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vaachi405/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Vaachi405/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaachi405/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Vaachi405/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vaachi405/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Vaachi405/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
