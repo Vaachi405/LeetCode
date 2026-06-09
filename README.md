@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/Vaachi405/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Vaachi405/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vaachi405/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Vaachi405/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Vaachi405/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/Vaachi405/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vaachi405/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Vaachi405/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
