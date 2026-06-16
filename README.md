@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/Vaachi405/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Vaachi405/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vaachi405/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Vaachi405/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Vaachi405/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vaachi405/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Vaachi405/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Vaachi405/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Vaachi405/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Vaachi405/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
