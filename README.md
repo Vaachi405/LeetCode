@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Vaachi405/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/Vaachi405/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vaachi405/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/Vaachi405/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/Vaachi405/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Vaachi405/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Vaachi405/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vaachi405/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaachi405/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/Vaachi405/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaachi405/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Vaachi405/LeetCode/tree/main/0283-move-zeroes/) | Easy |
