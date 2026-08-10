@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaachi405/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Vaachi405/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Vaachi405/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaachi405/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Vaachi405/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Vaachi405/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/Vaachi405/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vaachi405/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -657,6 +659,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Vaachi405/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vaachi405/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
