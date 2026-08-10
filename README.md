@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Vaachi405/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Vaachi405/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Vaachi405/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Vaachi405/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Vaachi405/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaachi405/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/Vaachi405/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Vaachi405/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaachi405/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaachi405/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -660,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/Vaachi405/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Vaachi405/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vaachi405/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Bracket Sequences
