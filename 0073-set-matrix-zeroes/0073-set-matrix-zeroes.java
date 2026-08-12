@@ -1,58 +1,36 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
 
-        boolean firstRowZero = false;
-        boolean firstColZero = false;
+        boolean row[] = new boolean[matrix.length];
+        boolean col[] = new boolean[matrix[0].length];
 
-        // Check if first column should be zero
-        for (int i = 0; i < m; i++) {
-            if (matrix[i][0] == 0) {
-                firstColZero = true;
-                break;
-            }
-        }
-
-        // Check if first row should be zero
-        for (int j = 0; j < n; j++) {
-            if (matrix[0][j] == 0) {
-                firstRowZero = true;
-                break;
-            }
-        }
-
-        // Use first row and column as markers
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+        for(int i =0; i < matrix.length; i++) {
+            for(int j = 0; j < matrix[0].length; j++) {
+                if(matrix[i][j] == 0) {
+                    row[i] = true;
+                    col[j] = true;
                 }
             }
         }
 
-        // Set cells to zero based on markers
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
+
+        for(int i = 0; i < row.length; i++) {
+            if(row[i] == true) {
+                for(int j = 0; j < matrix[0].length; j++) {
                     matrix[i][j] = 0;
                 }
             }
         }
 
-        // Zero first column if needed
-        if (firstColZero) {
-            for (int i = 0; i < m; i++) {
-                matrix[i][0] = 0;
+        for(int j = 0; j < col.length; j++) {
+            if(col[j] == true) {
+                for(int i = 0; i < matrix.length; i++) {
+                    matrix[i][j] = 0;
+                }
             }
         }
 
-        // Zero first row if needed
-        if (firstRowZero) {
-            for (int j = 0; j < n; j++) {
-                matrix[0][j] = 0;
-            }
-        }
+
+        
     }
 }
