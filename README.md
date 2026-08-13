@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Vaachi405/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Vaachi405/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vaachi405/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0289-game-of-life](https://github.com/Vaachi405/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Vaachi405/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vaachi405/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Vaachi405/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vaachi405/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Vaachi405/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0289-game-of-life](https://github.com/Vaachi405/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Vaachi405/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Memoization
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Vaachi405/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0289-game-of-life](https://github.com/Vaachi405/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0412-fizz-buzz](https://github.com/Vaachi405/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/Vaachi405/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
