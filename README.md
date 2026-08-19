@@ -678,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/Vaachi405/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Vaachi405/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1791-find-center-of-star-graph](https://github.com/Vaachi405/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
