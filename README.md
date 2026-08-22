@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Vaachi405/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Vaachi405/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Vaachi405/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Vaachi405/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Vaachi405/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Vaachi405/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Vaachi405/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaachi405/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaachi405/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0645-set-mismatch](https://github.com/Vaachi405/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/Vaachi405/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaachi405/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Vaachi405/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Vaachi405/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Vaachi405/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Vaachi405/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0735-asteroid-collision](https://github.com/Vaachi405/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vaachi405/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -611,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Vaachi405/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Vaachi405/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Vaachi405/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/Vaachi405/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vaachi405/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -647,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaachi405/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Vaachi405/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vaachi405/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaachi405/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaachi405/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
