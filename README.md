@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Vaachi405/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Vaachi405/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/Vaachi405/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0763-partition-labels](https://github.com/Vaachi405/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Vaachi405/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Vaachi405/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Vaachi405/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0504-base-7](https://github.com/Vaachi405/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0649-dota2-senate](https://github.com/Vaachi405/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [0763-partition-labels](https://github.com/Vaachi405/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vaachi405/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaachi405/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Vaachi405/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [0763-partition-labels](https://github.com/Vaachi405/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaachi405/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -652,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Vaachi405/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/Vaachi405/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [0763-partition-labels](https://github.com/Vaachi405/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vaachi405/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vaachi405/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Queue
