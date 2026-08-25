@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/Vaachi405/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/Vaachi405/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Vaachi405/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Vaachi405/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Vaachi405/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/Vaachi405/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Vaachi405/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vaachi405/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/Vaachi405/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Vaachi405/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/Vaachi405/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vaachi405/LeetCode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
