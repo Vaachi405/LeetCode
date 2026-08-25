@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaachi405/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Vaachi405/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Vaachi405/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/Vaachi405/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Vaachi405/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Vaachi405/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Vaachi405/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vaachi405/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Vaachi405/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0877-stone-game](https://github.com/Vaachi405/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Vaachi405/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vaachi405/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Vaachi405/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Vaachi405/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Vaachi405/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -456,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Vaachi405/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Vaachi405/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -569,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Vaachi405/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Vaachi405/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0326-power-of-three](https://github.com/Vaachi405/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Vaachi405/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/Vaachi405/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -739,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
