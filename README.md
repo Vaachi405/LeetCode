@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Vaachi405/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaachi405/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Vaachi405/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0221-maximal-square](https://github.com/Vaachi405/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Vaachi405/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Vaachi405/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Vaachi405/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Vaachi405/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vaachi405/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/Vaachi405/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vaachi405/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Vaachi405/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Vaachi405/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Vaachi405/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/Vaachi405/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0289-game-of-life](https://github.com/Vaachi405/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Vaachi405/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
