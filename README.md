@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Vaachi405/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0763-partition-labels](https://github.com/Vaachi405/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/Vaachi405/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0997-find-the-town-judge](https://github.com/Vaachi405/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Vaachi405/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaachi405/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Vaachi405/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Vaachi405/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/Vaachi405/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Vaachi405/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Vaachi405/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vaachi405/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Vaachi405/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0895-maximum-frequency-stack](https://github.com/Vaachi405/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaachi405/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaachi405/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vaachi405/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -814,4 +817,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Vaachi405/LeetCode/tree/main/0895-maximum-frequency-stack/) | Hard |
 <!---LeetCode Topics End-->
