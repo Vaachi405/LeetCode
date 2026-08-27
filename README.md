@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/Vaachi405/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vaachi405/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Vaachi405/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vaachi405/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/Vaachi405/LeetCode/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/Vaachi405/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vaachi405/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Vaachi405/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vaachi405/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/Vaachi405/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Vaachi405/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Vaachi405/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0695-max-area-of-island](https://github.com/Vaachi405/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Vaachi405/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Vaachi405/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Vaachi405/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -478,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Vaachi405/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Vaachi405/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0289-game-of-life](https://github.com/Vaachi405/LeetCode/tree/main/0289-game-of-life/) | Medium |
+| [0695-max-area-of-island](https://github.com/Vaachi405/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vaachi405/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Vaachi405/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -801,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Vaachi405/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Vaachi405/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
