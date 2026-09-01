@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vaachi405/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Vaachi405/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vaachi405/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Vaachi405/LeetCode/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [2235-add-two-integers](https://github.com/Vaachi405/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Vaachi405/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaachi405/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/Vaachi405/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Vaachi405/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Vaachi405/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Vaachi405/LeetCode/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Vaachi405/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaachi405/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## String
@@ -858,4 +860,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Vaachi405/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/Vaachi405/LeetCode/tree/main/1359-count-all-valid-pickup-and-delivery-options/) | Hard |
 <!---LeetCode Topics End-->
