@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaachi405/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vaachi405/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vaachi405/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Vaachi405/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Vaachi405/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaachi405/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vaachi405/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Vaachi405/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/Vaachi405/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/Vaachi405/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Vaachi405/LeetCode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vaachi405/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vaachi405/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Queue
